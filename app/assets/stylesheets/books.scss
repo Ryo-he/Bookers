@@ -1,0 +1,73 @@
+*{margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+h1{
+  margin:20px 10px;
+}
+h2{
+  margin:30px 30px 10px;
+}
+h5{
+  margin:30px 40px;
+}
+.s{
+  margin:20px 40px;
+}
+.B{
+  margin:20px 30px;
+  margin-bottom:0px;
+}
+table{
+  display:table;
+  margin-left:30px;
+}
+.book-head{
+  display:table-cell;
+}
+th{
+  padding-bottom:5px;
+}
+.book-list{
+  display:table-cell;
+  vertical-align: middle;
+}
+tr{
+  display: table-row;
+  vertical-align: middle;
+}
+td{
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.show-p{
+  margin:30px 50px;
+}
+.show-b{
+  margin:10px 20px;
+  font-size:80%;
+}
+.edit-box{
+  display:block;
+  margin:20px 30px;
+}
+.edit-b{
+   margin:10px 30px;
+  font-size:80%;
+}
+.new-list{
+  margin:20px 30px;
+}
+.new-b{
+  display:block;
+}
+.message{
+  color:green;
+}
+.errors{
+  color:red;
+}
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
