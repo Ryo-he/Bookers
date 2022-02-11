@@ -49,8 +49,7 @@ group :test do
   gem 'capybara', '>= 2.15'
   gem 'rspec-rails'
   gem 'factory_bot_rails'
-  # Easy installation and use of web drivers to run system tests with browsers
-  gem 'fake'
+  gem 'faker'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
